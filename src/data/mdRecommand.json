@@ -22,8 +22,8 @@
       "like": 278,
       "thumsUp": 94,
       "price": {
-        "originalPrice": 49000,
-        "salePrice": 99000,
+        "salePrice": 49000,
+        "originalPrice": 99000,
         "installment": 5
       },
       "coupon": 6
@@ -46,7 +46,15 @@
       "id": 4,
       "title": "내가 올해 승진할 상인가? 셀프 사주 풀이",
       "creator": "탐점",
-      "img": "https://images.velog.io/images/kados22/post/13566957-f804-4d1d-a85a-db91f963d78a/MD%20Class%20Card%20%EC%8D%B8%EB%84%A4%EC%9D%BC%203.png"
+      "img": "https://images.velog.io/images/kados22/post/13566957-f804-4d1d-a85a-db91f963d78a/MD%20Class%20Card%20%EC%8D%B8%EB%84%A4%EC%9D%BC%203.png",
+      "like": 206,
+      "thumsUp": 0,
+      "price": {
+        "originalPrice": 81600,
+        "salePrice": 58800,
+        "installment": 5
+      },
+      "coupon": 3
     },
     {
       "id": 5,
@@ -90,6 +98,5 @@
       },
       "coupon": 3
     }
-  ],
-  "like": 206
+  ]
 }
